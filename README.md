@@ -5,3 +5,5 @@ I believe that in today’s rapidly changing world, the future of humanity lies 
 * My portfolio website.
 * Data analytics.
 * programming (Python)
+# Contact
+feel free to connnet with me on [linkedin](https://www.linkedin.com/in/wahaj-uddeen-ahmad-503201172) and you can drop me an [Email](wahajkhanahmad@gmail.com).
